@@ -1,0 +1,39 @@
+{
+  "spark_version": "4.0.1",
+  "source_events": 5000,
+  "revenue_cents": 32515578,
+  "groups": 80,
+  "reconciled": true,
+  "sample": [
+    {
+      "store_id": "S01",
+      "events": 62,
+      "revenue_cents": 423409,
+      "event_date": "2026-09-01"
+    },
+    {
+      "store_id": "S02",
+      "events": 63,
+      "revenue_cents": 413260,
+      "event_date": "2026-09-01"
+    },
+    {
+      "store_id": "S03",
+      "events": 63,
+      "revenue_cents": 402015,
+      "event_date": "2026-09-01"
+    },
+    {
+      "store_id": "S04",
+      "events": 62,
+      "revenue_cents": 351202,
+      "event_date": "2026-09-01"
+    },
+    {
+      "store_id": "S01",
+      "events": 63,
+      "revenue_cents": 362055,
+      "event_date": "2026-09-02"
+    }
+  ]
+}

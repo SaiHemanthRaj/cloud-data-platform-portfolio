@@ -1,0 +1,29 @@
+{
+  "status": "loaded",
+  "batch_hash": "293f1f236c1ecbc71075b3272abd20e98fdcaa9269656118a438310cc8f55bd5",
+  "source_rows": 5150,
+  "inserted": 5000,
+  "updated": 20,
+  "duplicates": 100,
+  "stale": 0,
+  "quarantined": 30,
+  "accepted_versions": 5020,
+  "canonical_events": 5000,
+  "objects": [
+    {
+      "key": "objects/raw/293f1f236c1ecbc71075b3272abd20e98fdcaa9269656118a438310cc8f55bd5.csv",
+      "sha256": "293f1f236c1ecbc71075b3272abd20e98fdcaa9269656118a438310cc8f55bd5",
+      "bytes": 280831
+    },
+    {
+      "key": "objects/curated/108cc37e4ecff84c03dd37dd147335d19801eefa5b46f199aa43ad124d3a87f5.csv",
+      "sha256": "108cc37e4ecff84c03dd37dd147335d19801eefa5b46f199aa43ad124d3a87f5",
+      "bytes": 303780
+    },
+    {
+      "key": "objects/quarantine/36c381ac0f73d767807951c171286630d04ace4800757d771958e60f50f14e55.json",
+      "sha256": "36c381ac0f73d767807951c171286630d04ace4800757d771958e60f50f14e55",
+      "bytes": 8836
+    }
+  ]
+}
